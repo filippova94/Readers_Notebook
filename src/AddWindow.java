@@ -14,6 +14,10 @@ import javax.swing.JTextField;
 public class AddWindow extends JFrame {
 
 	String name;
+
+
+
+
 	String authtor;
 	String genre;
 	String language;
